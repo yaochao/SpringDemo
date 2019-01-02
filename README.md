@@ -7,4 +7,5 @@
 * application.properties > active files
 * test case
 * spring data jpa
+* EntityManager
 * mybatis
